@@ -146,5 +146,7 @@ Host machine
 
 
 
-1. [SysBenchExample] - "How to Benchmark Your System (CPU, File IO, MySQL) with Sysbench" \
+1. "How to Benchmark Your System (CPU, File IO, MySQL) with Sysbench" \
 [ https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) 
+2. "How to create virtual block device (loop device/filesystem) in Linux" \
+[ https://www.thegeekdiary.com/how-to-create-virtual-block-device-loop-device-filesystem-in-linux/](https://www.thegeekdiary.com/how-to-create-virtual-block-device-loop-device-filesystem-in-linux/) 

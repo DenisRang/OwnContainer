@@ -122,7 +122,7 @@ Then comparing the own container with LXC, Docker.
 
 
 
-# Some screens \
+# Some screens 
 Host machine
 
 ![alt_text](images/Create-Simple0.png "image_tooltip")

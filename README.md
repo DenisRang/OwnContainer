@@ -1,13 +1,8 @@
 # Create Simple Container
 
 Denis Rangulov
-
 Total Virtualization
-
-Innopolis University
-
-2019
-
+Innopolis University 2019
 
 # Intro
 
@@ -32,11 +27,6 @@ Then comparing the own container with LXC, Docker.
 
 
 # Tests
-
-	To test my container against other products and host machine i have to measure <something> because <reasons, preferably with links to source>....
-
-commands
-
 
 <table>
   <tr>
@@ -156,5 +146,3 @@ Host machine
 
 1. [SysBenchExample] - "How to Benchmark Your System (CPU, File IO, MySQL) with Sysbench" \
 [ https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) 
-
-<!-- Docs to Markdown version 1.0β16 -->
